@@ -1,5 +1,12 @@
 {
     "config": {
         "defaultlistview": "All"
+    },
+    "work": {
+        "copadouserstoryid": "a1vHr000001lao2IAA",
+        "copadouserstoryname": "US-0000025",
+        "copadobasebranch": "main",
+        "copadoenvbranch": "dev1",
+        "copadolastcommit": null
     }
 }
