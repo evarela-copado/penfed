@@ -40,7 +40,7 @@ private class AccountAutomationsTest {
         Account acc = new Account(Name = 'My Test Account');
         insert acc;
         acc = AccountAutomations.setDefaultURL(acc);
-        System.assertEquals('www.copa.do', acc.Website, 'Default website is www.copa.do');
+        System.assertEquals('www.copado.com', acc.Website, 'Default website is www.copado.com');
     }
 
 }
